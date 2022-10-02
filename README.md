@@ -18,5 +18,5 @@ Some questions that quickstarted analysis:
 * Weekdays between 5pm and 7pm result in the highest bike use. Except on Wednesdays, where data shows less bike use. 
 * Subscribers use the bike service more often than non-subscribers. Male subscribers are the heaviest users, especially on Thursdays and Fridays.
 
-Summary: 
+## Summary: 
 Overall, Subscribers use the bike service more than regular customers. During the weekday, 7 am and 5-7 pm are the busiest times. The weekends vary on busy times and more consistantly used throughout the day. Wednesdays are the least busy day of the work week. The biggest customer base for Citi Bike is males who have subscriptions. Two more observation that could be made using the given data could be the number of each gender who are subscibers and a better visual using age to if more subscibers are younger or older.
